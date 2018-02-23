@@ -1,0 +1,64 @@
+{
+"__comment": "Designed by Optimus0812 with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "blocks/anvil_base"
+},
+"elements": [ 
+{
+    "from": [ 7.25, 7.25, 6.5 ],
+    "to": [ 8.75, 8.75, 9 ],
+    "faces": {
+        "down":  { "uv": [ 8.75, 8.5, 7.25, 6.5 ], "texture": "#particle" },
+        "up":    { "uv": [ 7.25, 6.5, 8.75, 8.5 ], "texture": "#particle" },
+        "north": { "uv": [ 7.25, 7.25, 8.75, 8.75 ], "texture": "#particle" },
+        "south": { "uv": [ 7.25, 7.25, 8.75, 8.75 ], "texture": "#particle" },
+        "west":  { "uv": [ 6.5, 7.25, 8.5, 8.75 ], "texture": "#particle" },
+        "east":  { "uv": [ 7.5, 7.25, 9.5, 8.75 ], "texture": "#particle" }
+    }
+},
+{
+    "from": [ 7.5, 7.5, 9 ],
+    "to": [ 8.5, 8.5, 9.5 ],
+    "faces": {
+        "down":  { "uv": [ 8.5, 9, 7.5, 8.5 ], "texture": "#particle" },
+        "up":    { "uv": [ 7.5, 8.5, 8.5, 9 ], "texture": "#particle" },
+        "north": { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#particle" },
+        "south": { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#particle" },
+        "west":  { "uv": [ 8.5, 7.5, 9, 8.5 ], "texture": "#particle" },
+        "east":  { "uv": [ 7, 7.5, 7.5, 8.5 ], "texture": "#particle" }
+    }
+}
+],
+"display": {
+    "thirdperson": {
+        "rotation": [ 0, -180, 0 ],
+        "translation": [ 0, 1.5, -1.5 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "head": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, -5, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "fixed": {
+        "rotation": [ 0, -90, 0 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "firstperson": {
+        "rotation": [ 0, 145, 0 ],
+        "translation": [ 1, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+    },
+    "gui": {
+        "rotation": [ 180, 45, -125 ],
+        "translation": [ 0, 0, 0 ],
+        "scale": [ 1, 1, 1 ]
+    }
+}
+}
