@@ -1,0 +1,40 @@
+{
+    "parent": "guns/g3",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 180, 270, 180 ],
+            "translation": [ -2, 2, 0],
+            "scale": [ 0.6, 0.7, 0.7 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -87, 0 ],
+            "translation": [ 0, 7, -17],
+            "scale": [ 1.9, 2.3, 2.3 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [180, 90, 180 ],
+             "translation": [ -2, 2.5, 0],
+            "scale": [ 0.6, 0.7, 0.7 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 93, 0 ],
+            "translation": [ 0, 7, -20],
+            "scale": [ 1.9, 2.3, 2.3 ]
+        },
+        "gui": {
+          "rotation": [ 0, 170, -50 ],
+          "translation": [ -3, 0, 0 ],          
+	   "scale": [ 0.65, 0.65, 0.65 ]
+        },
+        "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 6, 0 ],
+          "scale": [ 1, 1, 1 ]
+        },
+        "fixed": {
+          "rotation": [-0, 0, -45 ],
+          "translation": [ 4, -1.5, 0 ],
+          "scale": [ 2, 2, 2 ]
+        }
+    }
+}

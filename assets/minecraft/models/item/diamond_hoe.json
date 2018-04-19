@@ -1,0 +1,40 @@
+{
+    "parent": "guns/luger",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 180, 270, 180 ],
+            "translation": [ -2.3, 2.7, -1],
+            "scale": [0.6, 0.6, 0.6 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 0 ],
+            "translation": [ 0, 6, -10],
+            "scale": [ 1.5, 1.8, 1.8]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [180, 90, 180 ],
+             "translation": [ -1.8, 2.7, -1],
+            "scale": [0.6, 0.6, 0.6 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 93, 0 ],
+             "translation": [ 0, 6, -10],
+            "scale": [ 1.5, 1.8, 1.8]
+        },
+        "gui": {
+          "rotation": [ 0, 170, -50 ],
+          "translation": [ -3, 2, 0 ],          
+	   "scale": [ 1.3, 1.3, 1.3 ]
+        },
+        "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 3, 0 ],
+          "scale": [ 1, 1, 1 ]
+        },
+        "fixed": {
+          "rotation": [-0, 0, -45 ],
+          "translation": [ 4, 6, 0 ],
+          "scale": [ 2.2, 2.2, 2.2 ]
+        }
+    }
+}

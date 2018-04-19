@@ -1,0 +1,45 @@
+{
+    "parent": "missiles/chemicalmissile",
+      "display": {
+        "gui": {
+            "rotation": [ 15, 0, -45 ],
+            "translation": [ 3, 4, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 90 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 6, 0 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 5, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_lefthand": {
+             "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 5, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 0, 10 ],
+            "translation": [ 0, 6, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 0, 10 ],
+            "translation": [ 0, 6, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ -2,60, -4 ],
+            "scale": [ 3.8, 4, 3.8 ]
+        }
+    }
+}

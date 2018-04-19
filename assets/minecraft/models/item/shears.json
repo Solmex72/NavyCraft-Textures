@@ -1,0 +1,40 @@
+{
+    "parent": "guns/p90",
+      "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 180, -90, 180 ],
+            "translation": [ -1.5, 0, 2],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -87, 0 ],
+            "translation": [ 0, -3, -10],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "thirdperson_lefthand": {
+             "rotation": [ 180, 90, 180 ],
+             "translation": [ -1.5, 0, 2],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 93, 0 ],
+            "translation": [ 0, -3, -10],
+            "scale": [ 1.5, 1.5, 1.5 ]
+        },
+        "gui": {
+          "rotation": [ 0, -180, -50 ],
+          "translation": [ 0, 0, 0 ],          
+	   "scale": [ 0.8, 0.9, 0.9 ]
+        },
+        "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 0, 0, 0 ],
+          "scale": [ 0.8, 0.8, 0.8 ]
+        },
+        "fixed": {
+          "rotation": [-0, 0, -45 ],
+          "translation": [ 3, 0, 0 ],
+          "scale": [ 2, 2, 2 ]
+        }
+    }
+}

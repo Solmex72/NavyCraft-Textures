@@ -1,0 +1,46 @@
+{
+    "parent": "miscellaneous/rocket",
+   "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 90, 180, 180 ],
+            "translation": [ 5, 0, -3],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 90, -87, 0 ],
+            "translation": [ 15, -20, -10],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "thirdperson_lefthand": {
+           "rotation": [ 90, 180, 180 ],
+            "translation": [ -5, 0, -3],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "firstperson_lefthand": {
+           "rotation": [ 90, 87, 0 ],
+            "translation": [ 15, -20, -10],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "gui": {
+          "rotation": [ 0, 170, -50 ],
+          "translation": [ -10, 0, 0 ],          
+	   "scale": [ 0.7, 0.7, 0.7 ]
+        },
+        "ground": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 5, 10, 0 ],
+          "scale": [ 1, 1, 1 ]
+        },
+        "fixed": {
+          "rotation": [-0, 0, -45 ],
+          "translation": [ 25, 0, 0 ],
+          "scale": [ 1.7, 1.7, 1.7 ]
+        },
+	 "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        }
+
+    }
+}

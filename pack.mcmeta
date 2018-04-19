@@ -347,7 +347,7 @@
         }
     },
     "pack": {
-        "description": "NavyCraft 1.8 - IronSeas",
-        "pack_format": 1
+        "description": "NavyCraft 1.12.2 - IronSeas",
+        "pack_format": 3
     }
 }
