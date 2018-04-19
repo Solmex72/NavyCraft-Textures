@@ -1,0 +1,13 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "__comment": "Used to add bottom texture to pumpkin, jack o lantern, dispenser, and dropper",
+        "particle": "#front",
+        "down": "#bottom",
+        "up": "#top",
+        "north": "#front",
+        "east": "#side",
+        "south": "#side",
+        "west": "#side"
+    }
+}

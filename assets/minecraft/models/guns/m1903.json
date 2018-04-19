@@ -3,7 +3,7 @@
     "textures": {
         "0": "blocks/anvil_base",
         "1": "blocks/planks_big_oak",
-        "2": "blocks/hardened_clay_stained_cyan",
+        "2": "blocks/hardened_clay_stained_gray",
         "3": "blocks/stone",
         "4": "blocks/glass_gray"
     },
